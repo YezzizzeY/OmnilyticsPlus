@@ -1,0 +1,20 @@
+def main(private u32[2500] x) -> u32 {
+    
+    // Initialize result and sum as mutable
+    u32 mut result = 0;
+    u32 mut sum = 0;
+    
+    // Compute the sum of squares
+    for u32 i in 0..50 {
+        sum = sum + x[i] * x[i];
+    }
+    
+    result = 1;
+
+    // Multiply with factors from (sum-1) to (sum-400)
+    for u32 j in 1..400 {  // Using fixed upper limit 401
+        result = result * (sum - j);
+    }
+
+    return result;
+}

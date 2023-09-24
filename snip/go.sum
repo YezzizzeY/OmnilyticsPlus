@@ -1,0 +1,14 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/jarcoal/httpmock v1.3.0 h1:2RJ8GP0IIaWwcC9Fp2BmVi8Kog3v2Hn7VXM3fTd+nuc=
+github.com/onrik/ethrpc v1.2.0 h1:BBcr1iWxW1RBP/eyZfzvSKtGgeqexq5qS0yyf4pmKbc=
+github.com/onrik/ethrpc v1.2.0/go.mod h1:uvyqpn8+WbsTgBYfouImgEfpIMb0hR8fWGjwdgPHtFU=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+golang.org/x/exp v0.0.0-20230810033253-352e893a4cad h1:g0bG7Z4uG+OgH2QDODnjp6ggkk1bJDsINcuWmJN1iJU=
+golang.org/x/exp v0.0.0-20230810033253-352e893a4cad/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
+gonum.org/v1/gonum v0.13.0 h1:a0T3bh+7fhRyqeNbiC3qVHYmkiQgit3wnNan/2c0HMM=
+gonum.org/v1/gonum v0.13.0/go.mod h1:/WPYRckkfWrhWefxyYTfrTtQR0KH4iyHNuzxqXAKyAU=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+scientificgo.org/fft v0.0.0 h1:8nq6H5e0HY9ba+aie7+vz8an5xdBQZ7a2rnyZ3iQCHo=
+scientificgo.org/fft v0.0.0/go.mod h1:RAwyHm5LB0BYJ5LcHBZO6wo2brPH2kuIFLgC0P+O260=
+scientificgo.org/testutil v0.0.0/go.mod h1:Go6R4b+9YkFocMo3H3vNQ7tjbrX9Rc12wal7NZjvPXg=

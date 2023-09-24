@@ -1,0 +1,15 @@
+def main(private u32[50] x1, private u32[50] x2, private u32[50] x3) -> (u32[50], u32[50], u32[50]) {
+
+    // 对于每个输入数组，进行加法处理
+    u32[50] mut res1 = [0; 50];
+    u32[50] mut res2 = [0; 50];
+    u32[50] mut res3 = [0; 50];
+
+    for u32 i in 0..50 {
+        res1[i] = x1[i] * 4;
+        res2[i] = x2[i] * 4;
+        res3[i] = x3[i] * 4;
+    }
+
+    return (res1, res2, res3);
+}
